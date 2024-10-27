@@ -100,6 +100,7 @@ void RecursePrintArr(int arr[], int size, int countIndex, int sum, int counter, 
 }
 
 
+
 // exercise 2
 void Func(int size, int arr[], int maxValue)
 {
